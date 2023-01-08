@@ -7,13 +7,13 @@ Building project with Reactjs and CSS modules
 
 ## **Requirements**
 
-node (v16.18.0 or above)
-npm (npm 8.x.x)
+* node (v16.18.0 or above)
+* npm (npm 8.x.x)
 
 ## **How to start**
 
-npm i
-npm start
+* npm i
+* npm start
 
 ## **Netlify**
 
