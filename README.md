@@ -19,4 +19,5 @@ npm start
 
 https://timely-pika-6868b9.netlify.app/
 
-![Small GIF (400x194)](https://user-images.githubusercontent.com/36548565/211202866-6b3d7165-7a1a-475c-8421-bb91b93fba3b.gif)
+
+![Large GIF (1400x678)](https://user-images.githubusercontent.com/36548565/211203123-9aa386f9-fc7f-47bc-859d-3a4e05e78f62.gif)
